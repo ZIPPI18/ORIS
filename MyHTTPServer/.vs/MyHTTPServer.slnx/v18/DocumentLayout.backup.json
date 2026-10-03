@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\MyHTTPServer (1)\\MyHTTPServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHTTPServer\\MyHTTPServer.csproj|c:\\users\\user\\downloads\\myhttpserver (1)\\myhttpserver\\myhttpserver\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHTTPServer\\MyHTTPServer.csproj|solutionrelative:myhttpserver\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHTTPServer\\MyHTTPServer.csproj|c:\\users\\user\\downloads\\myhttpserver (1)\\myhttpserver\\myhttpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHTTPServer\\MyHTTPServer.csproj|solutionrelative:myhttpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHTTPServer\\MyHTTPServer.csproj|c:\\users\\user\\downloads\\myhttpserver (1)\\myhttpserver\\myhttpserver\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHTTPServer\\MyHTTPServer.csproj|solutionrelative:myhttpserver\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHTTPServer\\MyHTTPServer.csproj|c:\\users\\user\\downloads\\myhttpserver (1)\\myhttpserver\\myhttpserver\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHTTPServer\\MyHTTPServer.csproj|solutionrelative:myhttpserver\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHTTPServer (1)\\MyHTTPServer\\MyHTTPServer\\Program.cs",
+              "RelativeDocumentMoniker": "MyHTTPServer\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHTTPServer (1)\\MyHTTPServer\\MyHTTPServer\\Program.cs",
+              "RelativeToolTip": "MyHTTPServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwBIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T19:06:12.902Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HttpServer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHTTPServer (1)\\MyHTTPServer\\MyHTTPServer\\HttpServer.cs",
+              "RelativeDocumentMoniker": "MyHTTPServer\\HttpServer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHTTPServer (1)\\MyHTTPServer\\MyHTTPServer\\HttpServer.cs",
+              "RelativeToolTip": "MyHTTPServer\\HttpServer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T15:49:44.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHTTPServer (1)\\MyHTTPServer\\MyHTTPServer\\Settings.cs",
+              "RelativeDocumentMoniker": "MyHTTPServer\\Settings.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHTTPServer (1)\\MyHTTPServer\\MyHTTPServer\\Settings.cs",
+              "RelativeToolTip": "MyHTTPServer\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T19:26:34.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "settings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHTTPServer (1)\\MyHTTPServer\\MyHTTPServer\\settings.json",
+              "RelativeDocumentMoniker": "MyHTTPServer\\settings.json",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHTTPServer (1)\\MyHTTPServer\\MyHTTPServer\\settings.json",
+              "RelativeToolTip": "MyHTTPServer\\settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-24T19:16:39.778Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
