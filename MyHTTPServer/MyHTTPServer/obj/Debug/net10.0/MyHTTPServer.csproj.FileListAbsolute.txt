@@ -14,4 +14,13 @@ C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\obj\Debug\net10.0\MyH
 C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\obj\Debug\net10.0\ref\MyHTTPServer.dll
 C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\bin\Debug\net10.0\settings.json
 C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\obj\Debug\net10.0\MyHTTPSe.F316BD60.Up2Date
-C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\bin\Debug\net10.0\Hello.html
+C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\bin\Debug\net10.0\static\Hello.html
+C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\bin\Debug\net10.0\static\SatisFactory.html
+C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\bin\Debug\net10.0\static\Steam\Style.css
+C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\bin\Debug\net10.0\static\Login_Form\forget.html
+C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\bin\Debug\net10.0\static\Login_Form\login.html
+C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\bin\Debug\net10.0\static\Login_Form\register.html
+C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\bin\Debug\net10.0\static\Login_Form\style.css
+C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\bin\Debug\net10.0\static\Login_Form\image\bg.jpg
+C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\bin\Debug\net10.0\static\Login_Form\image\logo.png
+C:\Users\Айрат\source\repos\MyHTTPServer\MyHTTPServer\bin\Debug\net10.0\static\Steam\Steam.html
