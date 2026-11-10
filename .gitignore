@@ -1,0 +1,14 @@
+# Сборочные директории
+bin/
+obj/
+
+# Настройки Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Временные файлы и кэш
+*.tmp
+*.log
