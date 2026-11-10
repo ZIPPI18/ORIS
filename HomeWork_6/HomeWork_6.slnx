@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="Study/HtmlTemplater.csproj" />
+  <Project Path="HtmlTemplater/HtmlTemplater.csproj" />
   <Project Path="Test1/Unit.csproj" Id="dbc23373-bad2-450c-bc9b-fdd6ac202df2" />
 </Solution>

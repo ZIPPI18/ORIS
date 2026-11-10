@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Study\HtmlTemplater.csproj" />
+    <ProjectReference Include="..\HtmlTemplater\HtmlTemplater.csproj" />
   </ItemGroup>
 
 </Project>
