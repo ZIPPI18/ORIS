@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MiniHttpServer.ORM/MiniHttpServer.ORM.csproj" Id="88c1a839-d376-4cff-a315-ea6419902fb8" />
+  <Project Path="MyHTTPServer/MyHTTPServer.csproj" />
+</Solution>

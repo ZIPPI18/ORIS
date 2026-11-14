@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
@@ -39,6 +39,16 @@ namespace MyHTTPServer
 
                 string cleanPath = localPath.TrimEnd('/');
 
+                if (_routes.TryGetValue(cleanPath, out IController? controller) &&
+                    ((request.HttpMethod.Equals("POST", StringComparison.OrdinalIgnoreCase) && cleanPath.Equals("/login", StringComparison.OrdinalIgnoreCase)) ||
+                     request.HttpMethod.Equals("GET", StringComparison.OrdinalIgnoreCase) &&
+                     (cleanPath.Equals("/home-work/send", StringComparison.OrdinalIgnoreCase) ||
+                      cleanPath.Equals("/user/list", StringComparison.OrdinalIgnoreCase))))
+                {
+                    await controller.HandleAsync(context, cleanPath);
+                    return;
+                }
+
                 if (string.IsNullOrEmpty(cleanPath) || cleanPath == "")
                 {
                     localPath = "/Steam/Steam.html";
@@ -52,13 +62,6 @@ namespace MyHTTPServer
                 {
                     localPath = cleanPath + "/index.html";
                 }
-
-                if (request.HttpMethod.Equals("POST", StringComparison.OrdinalIgnoreCase) && _routes.ContainsKey(cleanPath))
-                {
-                    await _routes[cleanPath].HandleAsync(context, cleanPath);
-                    return;
-                }
-
 
                 string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "static", localPath.TrimStart('/'));
 
@@ -93,6 +96,7 @@ namespace MyHTTPServer
                 response.OutputStream.Close();
             }
         }
+
 
         private string GetMimeType(string extension)
         {
