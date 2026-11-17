@@ -1,7 +1,0 @@
-{
-  "Port": "8888",
-  "Host": "localhost",
-  "Path": "connection",
-  "PublicDirectoryPath": "static",
-  "ConnectionString": "Server=localhost\\SQLEXPRESS02;Database=OrisDb;Integrated Security=True;Encrypt=True;TrustServerCertificate=True;"
-}
